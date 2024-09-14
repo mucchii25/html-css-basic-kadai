@@ -1,0 +1,42 @@
+html {
+  font-size: 20px;
+}
+h1{letter-spacing: 1.2em;
+  font-size: 2rem;
+  border-bottom: solid ;
+  text-shadow: 1px 1px 3px rgb(115,115,114);
+  text-align: center;
+}
+
+.google-fonts {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+  body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+  }
+  
+p {
+
+  color: black;
+  font-size: 20px;
+
+}
+#parent p {
+  font-weight: bold;
+}
+
+
+
+.decoration1 {
+  color: skyblue;
+}
+
+
+.decoration2 {
+  color: rgb(255, 192, 203);
+}
